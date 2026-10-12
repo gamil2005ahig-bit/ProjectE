@@ -1,3 +1,6 @@
+# Agent work artifacts
+.agents/
+
 # Godot generated files
 .godot/
 
